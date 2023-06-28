@@ -1,0 +1,6 @@
+{
+    "prettier.bracketSameLine": false,
+    "workbench.colorTheme": "Visual Studio Light",
+    "workbench.preferredLightColorTheme": "Visual Studio Light",
+    "workbench.editor.decorations.colors": true
+}
